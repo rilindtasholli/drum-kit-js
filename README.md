@@ -5,8 +5,9 @@
 - Live Site URL: [Open Live Site](https://rilindtasholli.github.io/drum-kit-js)
 
 ## Screenshot
-![](https://raw.github.com/rilindtasholli/drum-kit-js/main/screenshot.jpg)
-- Solution
+-1
+![](https://raw.github.com/rilindtasholli/drum-kit-js/main/screenshot.png)
+-2
 ![](https://raw.github.com/rilindtasholli/drum-kit-js/main/screenshot2.png)
 
 ## Author
